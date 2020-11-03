@@ -1,12 +1,12 @@
 +++
 title = "Week0"
 date = 2020-11-03T21:22:26+01:00
-weight = 5
+weight = 1
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b> </b>"
 +++
 
-### Chapter X
+### Woche 0
 
 # Some Chapter title
 

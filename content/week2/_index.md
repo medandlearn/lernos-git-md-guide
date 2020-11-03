@@ -1,13 +1,23 @@
 +++
 title = "Week2"
 date = 2020-11-03T21:23:34+01:00
-weight = 5
+weight = 3
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b></b>"
 +++
 
-### Chapter X
+### Woche 2
 
-# Some Chapter title
+# Wochenübersicht
 
-Lorem Ipsum.
+WarmUp / Kata / 
+
+Erstelle die Grobstruktur deines Projektes (outline)
+
+1.
+2.
+3.
+4.
+5.
+
+Fertig? Dann alle Änderungen in git ansehen und mit einem commit übertragen

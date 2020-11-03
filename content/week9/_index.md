@@ -1,13 +1,13 @@
 +++
 title = "Week9"
 date = 2020-11-03T21:26:24+01:00
-weight = 5
+weight = 9
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b> </b>"
 +++
 
-### Chapter X
+### Woche 9
 
-# Some Chapter title
+# Wochenübersicht
 
 Lorem Ipsum.

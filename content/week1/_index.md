@@ -1,13 +1,13 @@
 +++
 title = "Week1"
 date = 2020-11-03T21:23:01+01:00
-weight = 5
+weight = 2
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b></b>"
 +++
 
-### Chapter X
+### Woche 1
 
-# Some Chapter title
+# git init
 
-Lorem Ipsum.
+Erstelle einen Ordner mit deinem Projektnamen und verfolge von nun an alle Änderungen mit git.
