@@ -8,6 +8,6 @@ pre = "<b> </b>"
 
 ### Woche 0
 
-# Some Chapter title
+# Check in / Who is who? Deine Ziele?
 
 Lorem Ipsum.
