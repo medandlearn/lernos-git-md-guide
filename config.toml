@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Workshop"
-theme = "learn"
+theme = "hugo-theme-learn"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
