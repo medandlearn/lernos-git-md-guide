@@ -5,6 +5,7 @@ draft: true
 mermaid: true
 ---
 ### Use Mermaid-Diagramme
+```
 [Kurzübersicht zu Diagrammelementen](https://www.diagrams.net/blog/mermaid-diagrams)
 {{< mermaid align="left" theme="dark" >}}
 graph LR;
@@ -13,5 +14,5 @@ graph LR;
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
 {{< /mermaid >}}
-
+```
 ### Zahlen zu Markdown
